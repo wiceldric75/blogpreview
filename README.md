@@ -22,8 +22,8 @@ This is my solution to the [Blog Preview Card Component Challenge on Frontend Me
 
 ### Links
 
-- [Solution Repository](https://github.com/wiceldric75/blog-preview-card-component) 
-- [Live Demo](https://wiceldric75.github.io/blog-preview-card-component/)
+- [Solution Repository](https://github.com/wiceldric75/blogpreview) 
+- [Live Demo](https://wiceldric75.github.io/blogpreview/)
 
 ## My Process
 - **Setup**: Structured the project with semantic HTML5 and external CSS, importing the "Figtree" font via Google Fonts.
@@ -49,7 +49,7 @@ This is my solution to the [Blog Preview Card Component Challenge on Frontend Me
 - I have over 20 years of professional development experience, starting with a decade in embedded systems where I worked with assembly, C, and C++. For the past 10+ years, I’ve specialized in iPhone application development using Objective-C and Swift. Recently, I’ve ventured into starting my own business, which sparked my interest in web development. After spending months studying HTML, CSS, and JavaScript to build a strong theoretical foundation, I’m now putting those skills into practice through hands-on challenges like those offered by Frontend Mentor.
 
 - **GitHub**: [wiceldric75](https://github.com/wiceldric75)
-- **Frontend Mentor**: [@YourFrontendMentorUsername](https://www.frontendmentor.io/profile/wiceldric75)
+- **Frontend Mentor**: [@wiceldric75](https://www.frontendmentor.io/profile/wiceldric75)
 
 ### What I Learned
 
